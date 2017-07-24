@@ -19,6 +19,18 @@
 ![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(4).png)
 ![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(5).png)
 
+技术难点
+网上很多都是用webpack写SPA，本胖之前也用webpack写过一个单页面的知乎日报，这次就想用多页面形式来写。<br/>
+发现用组件来写多页面的，貌似比单页面的简单很多（毕竟不用在一张画布上面写所有的东西），但是痛点在于vue-cli默认是单页面的，所有需要我们自己给他转化成多页面。<br/>
+
+运行
+-------  
+1.下载代码
+2.cd 到当前文件夹
+3.npm install
+4.npm run dev
+5.打开http://localhost:8081/module/index.html 即可访问
+
 
 
 
