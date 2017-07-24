@@ -11,6 +11,14 @@
 4.日报详情页<br/>
 5.日报详情评论列表<br/>
 
+展示界面
+-------  
+![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(1).png)
+![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(2).png)
+![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(3).png)
+![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(4).png)
+![image](https://github.com/lvpangpang/zhihu/blob/master/static/a%20(5).png)
+
 
 
 
